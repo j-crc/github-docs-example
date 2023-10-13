@@ -42,13 +42,15 @@ This is a random quote:
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone. This is not to be confused with taking a photo with your phone.
 
 
-<img src="/assets/programming-horror.jpg" alt="Alt Text" width="300">
- _Immediately no_ :raised_back_of_hand:
+<img src="/assets/programming-horror.jpg" alt="photo of computer taken with phone" width="300">
+_Immediately no_ :raised_back_of_hand:
+
+I suggest using Lighshot [<sup>[1]</sup>](#references), it works on Windows and Mac. With this tool, you can capture the screen or part of it and save as image or paste it on Paint.
 
 
 ## Step 3 - Using Github Flavored Task lists
 
-Github extends markdown to have a list where you can check off items.[<sup>[1]</sup>](#references)
+Github extends markdown to have a list where you can check off items.[<sup>[2]</sup>](#references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -74,7 +76,10 @@ Github Flavored Markdown supports emoji shortcodes. Here are some examples:
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/)
 
 - [Github Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [Lightshot screen capture tool](https://app.prntscr.com/en/index.html)<sup>[1]</sup>
  
-- [GFM Task lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
+- [GFM Task lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[2]</sup>
 
 - [GFM Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+  
