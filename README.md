@@ -41,11 +41,12 @@ This is a random quote:
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone. This is not to be confused with taking a photo with your phone.
 
-
-<img src="/assets/programming-horror.jpg" alt="photo of computer taken with phone" width="300">
 _Immediately no_ :raised_back_of_hand:
 
-I suggest using Lighshot [<sup>[1]</sup>](#references), it works on Windows and Mac. With this tool, you can capture the screen or part of it and save as image or paste it on Paint.
+<img src="/assets/programming-horror.jpg" alt="photo of computer taken with phone" width="300">
+
+
+I suggest using Lighshot [<sup>[1]</sup>](#references), it works on Windows and Mac. With this tool, you can capture the screen or part of it and save it as an image or paste it on Paint.
 
 
 ## Step 3 - Using Github Flavored Task lists
