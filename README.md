@@ -37,6 +37,14 @@ This is a random quote:
 
 > _"I am Beyoncé always"_ Michael Scott
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone. This is not to be confused with taking a photo with your phone.
+
+
+<img src="/assets/programming-horror.jpg" alt="Alt Text" width="300">
+ _Immediately no_ :raised_back_of_hand:
+
 
 ## Step 3 - Using Github Flavored Task lists
 
