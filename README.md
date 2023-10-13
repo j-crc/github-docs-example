@@ -37,6 +37,8 @@ This is a random quote:
 
 > _"I am Beyoncé always"_ Michael Scott
 
+
+
 ## Step 2 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop, desktop or phone. This is not to be confused with taking a photo with your phone.
@@ -49,6 +51,7 @@ _Immediately no_ :raised_back_of_hand:
 I suggest using Lighshot [<sup>[1]</sup>](#references), it works on Windows and Mac. With this tool, you can capture the screen or part of it and save it as an image or paste it on Paint.
 
 
+
 ## Step 3 - Using Github Flavored Task lists
 
 Github extends markdown to have a list where you can check off items.[<sup>[2]</sup>](#references)
@@ -57,6 +60,7 @@ Github extends markdown to have a list where you can check off items.[<sup>[2]</
 - [ ] Finish Step 2
 - [x] Finish Step 3
 - [x] Create more steps :tada:
+
 
 ## Step 4 - Using Emojis
 
